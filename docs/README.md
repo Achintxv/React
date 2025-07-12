@@ -44,17 +44,14 @@ This repository serves as a collection of personal and learning projects built u
    cd react
 Navigate into any project folder to run or explore individual projects.
 
-📌 Purpose
-This repository is created for:
+## 📌 This repository is created for:
 
 Practicing modern frontend and full-stack development
-
 Showcasing personal projects
-
 Experimenting with animations, authentication systems, and REST APIs using MERN stack
 
-📄 License
+## 📄 License
 All projects in this repository are for personal and educational use only.
 
-🙌 Author
+## 🙌 Author
 Achint Verma — [GitHub](https://github.com/Achintxv)
