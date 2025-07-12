@@ -20,6 +20,7 @@ A visually engaging, scroll-based website built with **React**, inspired by [och
 
 1. **Clone the repository**
 - git clone https://github.com/Achintxv/React.git
+- cd React
 - cd Ochi
 
 3. **Install dependencies**
