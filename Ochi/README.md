@@ -19,17 +19,17 @@ A visually engaging, scroll-based website built with **React**, inspired by [och
 ## 🚀 How to Run the Project Locally
 
 1. **Clone the repository**
-git clone https://github.com/Achintxv/React.git
-cd Ochi
+- git clone https://github.com/Achintxv/React.git
+- cd Ochi
 
-2. **Install dependencies**
-npm install
+3. **Install dependencies**
+- npm install
 
-3. **Start the development server**
-npm run dev
+4. **Start the development server**
+- npm run dev
 
-4. **Visit the app**
-http://localhost:5173/
+5. **Visit the app**
+- http://localhost:5173/
 
 ## 📌 Future Improvements
 
