@@ -57,4 +57,4 @@ Experimenting with animations, authentication systems, and REST APIs using MERN 
 All projects in this repository are for personal and educational use only.
 
 🙌 Author
-Achint Verma — GitHub
+Achint Verma — [GitHub](https://github.com/Achintxv)
