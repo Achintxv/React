@@ -43,7 +43,7 @@ The app will run on http://localhost:5173/login
 3. Create a .env file in the backend root and add your MongoDB connection string:
     MONGODB_URI=your-mongodb-connection-string
 
-Start the backend server:
+4. Start the backend server:
 npm start
 
 📌 Check the package.json scripts section to confirm your start script is correctly set up (e.g. using nodemon or node).
