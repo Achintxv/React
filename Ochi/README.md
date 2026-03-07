@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Ochi – React Landing Page Clone</title>
-</head>
-<body>
-
     <h1>Ochi – React Landing Page Clone</h1>
 
     <p>A modern, animated landing page inspired by the Ochi design studio website, built using React, Vite, and Tailwind CSS. This project focuses on creating smooth UI interactions, responsive layouts, and visually appealing sections.</p>
@@ -77,6 +69,3 @@
     <hr>
 
     <p><strong>👨‍💻 Author:</strong> Achint Verma</p>
-
-</body>
-</html>
